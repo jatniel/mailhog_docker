@@ -2,7 +2,7 @@
 
 # Usage
 
-clone the repository
+clone the repository: `gh repo clone jatniel/mailhog_docker`
 
 `docker-compose up -d`
 
